@@ -19,7 +19,8 @@ function Attributions() {
             Bishop made by <a href="https://www.flaticon.com/authors/victoruler" 
                               title="Victoruler">Victoruler</a> from <a 
                               href="https://www.flaticon.com/" 
-                              title="Flaticon">www.flaticon.com</a>
+                              title="Flaticon">www.flaticon.com</a>, <br></br>
+            Board image from <a href ="Chess.com" title = "chess"> chess.com</a>
                                            
       </div>
     </div>    

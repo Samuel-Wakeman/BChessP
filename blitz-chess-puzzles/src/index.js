@@ -3,12 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Attributions from './Attributions';
+import Timer from './timer'
 
 ReactDOM.render(
   <React.StrictMode>
+    <Timer/>
     <Attributions/>
   </React.StrictMode>,
   document.getElementById('root')
+  
 );
 
 // If you want to start measuring performance in your app, pass a function

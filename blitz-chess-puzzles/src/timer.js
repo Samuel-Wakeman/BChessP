@@ -42,9 +42,7 @@ class Timer extends React.Component {
     }
 
     stopTimer(){
-        this.setState({time: this.state.time,
-        seconds: this.state.seconds,
-        paused: true})
+        this.setState({paused: true})
     }
   
     countDown() {

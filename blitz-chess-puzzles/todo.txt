@@ -1,0 +1,10 @@
+1.) create game class
+2.) add board and pieces to screen
+3.) make board and pieces look correct
+4.) implement chess
+    a.) implement turns
+    b.) implement move piece based on type
+    c.) implement capturing
+        i.) implement en pessant
+    d.) implement checkmate
+

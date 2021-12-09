@@ -14,6 +14,7 @@ class piece extends React.component{
 
 
     getifp(){
+        //ifp=image file path
         let abbr = this.props.abbr
         let ifp = '\"./images/'
         switch(abbr[0]){
